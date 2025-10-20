@@ -1,6 +1,6 @@
 {
 	"required": true,
-	"package": "com.minecraftmod.teste.mixin.client",
+	"package": "com.minecraftmod.mixin.client",
 	"compatibilityLevel": "JAVA_21",
 	"client": [
 		"ExampleClientMixin"

@@ -1,4 +1,4 @@
-package com.minecraftmod.teste;
+package com.minecraftmod;
 
 import net.fabricmc.api.ClientModInitializer;
 

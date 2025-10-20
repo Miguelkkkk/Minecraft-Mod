@@ -16,13 +16,13 @@
 	"environment": "*",
 	"entrypoints": {
 		"main": [
-			"com.minecraftmod.teste.MinecraftMod"
+			"com.minecraftmod.MinecraftMod"
 		],
 		"client": [
-			"com.minecraftmod.teste.MinecraftModClient"
+			"com.minecraftmod.MinecraftModClient"
 		],
 		"fabric-datagen": [
-			"com.minecraftmod.teste.MinecraftModDataGenerator"
+			"com.minecraftmod.MinecraftModDataGenerator"
 		]
 	},
 	"mixins": [
@@ -33,8 +33,8 @@
 		}
 	],
 	"depends": {
-		"fabricloader": ">=0.16.14",
-		"minecraft": "~1.21.8",
+		"fabricloader": ">=0.17.3",
+		"minecraft": "~1.21.10",
 		"java": ">=21",
 		"fabric-api": "*"
 	},
